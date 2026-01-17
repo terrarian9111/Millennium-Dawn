@@ -4649,6 +4649,7 @@ country_event = {
 		log = "[GetDateText]: [This.GetName]: korea_russia.58.a executed"
 		ai_chance = { base = 1 }
 	}
+<<<<<<< HEAD
 }
 
 country_event = {
@@ -4732,4 +4733,6 @@ country_event = {
 		log = "[GetDateText]: [This.GetName]: korea.139.a executed"
 		add_political_power = 10
 	}
+=======
+>>>>>>> 1a74bbb8281261b2fee8e4d2eec92c3a5c6266e7
 }
