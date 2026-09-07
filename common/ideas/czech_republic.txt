@@ -10338,7 +10338,7 @@ local_resources_chromium_factor = 0.04
 
 			modifier = {
 				stability_factor = -0.06
-				nationalist_drift = 0.02
+				nationalist_drift = 0.04
 				democratic_drift = -0.06
 			}
 		}
@@ -10348,7 +10348,7 @@ local_resources_chromium_factor = 0.04
 			picture = propaganda
 
 			modifier = {
-				nationalist_drift = 0.04
+				nationalist_drift = 0.07
 			}
 		}
 
